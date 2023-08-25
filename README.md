@@ -6,6 +6,12 @@ Proyek analsis dan representasi data dengan menggunakan python
 
 Proyek ini adalah contoh implementasi analisis dan representasi data menggunakan Python dan beberapa ekstensi serta library populer seperti Pandas, Matplotlib, Seaborn, dan lain-lain. Tujuannya adalah untuk memberikan contoh penggunaan ekstensi dan library tersebut dalam analisis data.
 
+# Penggunaan pada Google Collab
+
+[Representasi data healthcare dataset stroke data pada Google Collab](https://colab.research.google.com/drive/1ZFpCcdteqpECIdPHPcp2q_MkjAHwZglJ?usp=sharing)
+
+# Installation
+
 ## 1. Instalasi python
 Pastikan Anda memiliki Python diinstal. Jika belum, unduh dan instal dari [python.org](https://www.python.org/downloads/).
 
