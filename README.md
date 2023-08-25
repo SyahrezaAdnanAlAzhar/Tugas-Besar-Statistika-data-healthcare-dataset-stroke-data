@@ -35,6 +35,10 @@ Di dalam script Python, Anda perlu mengimpor library dan ekstensi yang akan digu
    import matplotlib.patheffects as path_effects
    ```
 
+# Lisensi
+Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
+
+
 # Referensi
 * [Dokumentasi Pandas](https://pandas.pydata.org/docs/)
 * [Dokumentasi Matplotlib](https://matplotlib.org/stable/users/index.html)
