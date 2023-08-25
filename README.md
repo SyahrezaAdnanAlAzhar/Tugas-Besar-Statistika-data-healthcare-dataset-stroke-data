@@ -1,10 +1,10 @@
 # Tugas Besar Statistika Representasi data healthcare dataset stroke data
 
-Proyek analsis dan representasi data dengan menggunakan python
+Tugas besar analsis dan representasi data dengan menggunakan python
 
 ## Deskripsi
 
-Proyek ini adalah contoh implementasi analisis dan representasi data menggunakan Python dan beberapa ekstensi serta library populer seperti Pandas, Matplotlib, Seaborn, dan lain-lain. Tujuannya adalah untuk memberikan contoh penggunaan ekstensi dan library tersebut dalam analisis data.
+Tugas ini adalah contoh implementasi analisis dan representasi data menggunakan Python dan beberapa ekstensi serta library populer seperti Pandas, Matplotlib, Seaborn, dan lain-lain. Tujuannya adalah untuk memberikan contoh penggunaan ekstensi dan library tersebut dalam analisis data.
 
 # Penggunaan pada Google Collab
 
